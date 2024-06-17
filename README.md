@@ -5,7 +5,6 @@
 **Duration:**June to August
 
 
-
 ## Overview of the Project
 
 ### Project: SIMPLE CALCULATOR
