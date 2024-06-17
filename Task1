@@ -14,7 +14,7 @@ public class calculator {
         System.out.println("1 for addition(+)");
         System.out.println("2 for substraction(-)");
         System.out.println("3 for multiplication(*)");
-        System.out.println("4 fro division(/)");
+        System.out.println("4 for division(/)");
         symbol=scn.nextInt();
        
     
