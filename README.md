@@ -2,7 +2,7 @@
 **Company:** COCTECH IT SOLUTIONS
 **ID:** CT12DS1068
 **Domain:** Java Programming
-**Duration:**June to August
+**Duration:** June to August
 
 
 ## Overview of the Project
